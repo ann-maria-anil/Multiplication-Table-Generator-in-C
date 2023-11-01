@@ -9,7 +9,9 @@ C program to generate multiplication table within the specified lower and upper 
                 within the specified lower and upper limits by 
 				using the concepts of loops only
 */
+
 #include<stdio.h>
+
 int main()
 {
     int lowerLimit, upperLimit;
